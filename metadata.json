@@ -1,0 +1,6 @@
+{
+  "name": "ConnectX",
+  "description": "All-in-one social & communication app with chat, image/video sharing, voice messages, voice/video calls, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
